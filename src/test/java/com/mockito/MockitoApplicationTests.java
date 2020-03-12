@@ -47,6 +47,7 @@ class MockitoApplicationTests {
 	
 
 	private MockMvc mvc;
+	
 	@Autowired
 	private WebApplicationContext context;
 	
